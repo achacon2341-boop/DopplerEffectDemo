@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639075103995235019
+      ticks: 639075134415212918
     m_Hash: 3917522215
   m_LockFileStatus:
     m_FilePath: C:/Repositories/DopplerEffectDemo/DopplerEffectDemo/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639075104617086587
+      ticks: 639075135269874335
     m_Hash: 1435076190
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
